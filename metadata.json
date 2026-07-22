@@ -1,0 +1,6 @@
+{
+  "name": "Tourism Guide AI",
+  "description": "Discover local attractions, personalized day-wise itineraries, trip budgets, local food guide, and smart travel assistant powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
